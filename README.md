@@ -131,31 +131,31 @@ The project uses the following AWS components:
 - Configured the alarm to detect average CPU utilization greater than 80% over a five-minute period.
 - Verified that the alarm entered the `OK` state when the threshold was not breached and sufficient metric data was available.
 
-## ## 📸 Project Screenshots
+## ## ## 📸 Project Screenshots
 
 ### 1. Application Deployment
-![Application Deployment](./01-application-deployed.png)
+![Application Deployment](./application-deployed.png.png)
 
 ### 2. VPC and Subnets
-![VPC and Subnets](./02-vpc-subnets.png)
+![VPC and Subnets](./vpc-subnets.png.png)
 
 ### 3. EC2 Instances
-![EC2 Instances](./03-ec2-instances.png)
+![EC2 Instances](./ec2-instances.png.png)
 
 ### 4. Auto Scaling Group
-![Auto Scaling Group](./04-auto-scaling-group.png)
+![Auto Scaling Group](./auto-scaling-group.png.png)
 
 ### 5. Application Load Balancer
-![Application Load Balancer](./05-load-balancer.png)
+![Application Load Balancer](./load-balancer.png.png)
 
 ### 6. Target Group Health
-![Target Group Health](./06-target-group-health.png)
+![Target Group Health](./target-group-health.png.png)
 
 ### 7. CloudWatch Monitoring
-![CloudWatch Monitoring](./07-cloudwatch-monitoring.png)
+![CloudWatch Monitoring](./cloudwatch-monitoring.png.png)
 
 ### 8. CloudWatch Alarm
-![CloudWatch Alarm](./08-cloudwatch-alarm.png)
+![CloudWatch Alarm](./cloudwatch-alarm.png.png)
 
 ### 9. AWS Architecture Diagram
 ![AWS Architecture Diagram](./architecture-diagram.png)
