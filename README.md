@@ -133,18 +133,29 @@ The project uses the following AWS components:
 
 ## 📸 Project Screenshots
 
-Screenshots documenting the deployment and configuration will be added here.
+### 1. Application Deployment
+![Application Deployment](01-application-deployed.png)
 
-| No. | Screenshot | What it demonstrates |
-|---|---|---|
-| 1 | Application Deployment | The web page accessed through the load balancer DNS |
-| 2 | VPC and Subnets | Network configuration |
-| 3 | EC2 Instances | Compute resources |
-| 4 | Auto Scaling Group | Capacity configuration |
-| 5 | Application Load Balancer | Load balancer configuration |
-| 6 | Target Group Health | Healthy registered targets |
-| 7 | CloudWatch Monitoring | CPU utilization metrics |
-| 8 | CloudWatch Alarm | High CPU utilization alarm configuration |
+### 2. VPC and Subnets
+![VPC and Subnets](02-vpc-subnets.png)
+
+### 3. EC2 Instances
+![EC2 Instances](03-ec2-instances.png)
+
+### 4. Auto Scaling Group
+![Auto Scaling Group](04-auto-scaling-group.png)
+
+### 5. Application Load Balancer
+![Application Load Balancer](05-load-balancer.png)
+
+### 6. Target Group Health
+![Target Group Health](06-target-group-health.png)
+
+### 7. CloudWatch Monitoring
+![CloudWatch Monitoring](07-cloudwatch-monitoring.png)
+
+### 8. CloudWatch Alarm
+![CloudWatch Alarm](08-cloudwatch-alarm.png)
 
 ## 🔐 Security Considerations
 
