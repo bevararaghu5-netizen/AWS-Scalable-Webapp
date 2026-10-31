@@ -131,32 +131,34 @@ The project uses the following AWS components:
 - Configured the alarm to detect average CPU utilization greater than 80% over a five-minute period.
 - Verified that the alarm entered the `OK` state when the threshold was not breached and sufficient metric data was available.
 
-## 📸 Project Screenshots
+## ## 📸 Project Screenshots
 
 ### 1. Application Deployment
-![Application Deployment](./Application%20Deployment)
+![Application Deployment](./01-application-deployed.png)
 
 ### 2. VPC and Subnets
-![VPC and Subnets](./VPC%20and%20Subnets)
+![VPC and Subnets](./02-vpc-subnets.png)
 
 ### 3. EC2 Instances
-![EC2 Instances](./EC2%20Instances)
+![EC2 Instances](./03-ec2-instances.png)
 
 ### 4. Auto Scaling Group
-![Auto Scaling Group](./Auto%20Scaling%20Group)
+![Auto Scaling Group](./04-auto-scaling-group.png)
 
 ### 5. Application Load Balancer
-![Application Load Balancer](./Application%20Load%20Balancer)
+![Application Load Balancer](./05-load-balancer.png)
 
 ### 6. Target Group Health
-![Target Group Health](./Target%20Group%20Health)
+![Target Group Health](./06-target-group-health.png)
 
 ### 7. CloudWatch Monitoring
-![CloudWatch Monitoring](./CloudWatch%20Monitoring)
+![CloudWatch Monitoring](./07-cloudwatch-monitoring.png)
 
 ### 8. CloudWatch Alarm
-![CloudWatch Alarm](./CloudWatch%20Alarm)
+![CloudWatch Alarm](./08-cloudwatch-alarm.png)
 
+### 9. AWS Architecture Diagram
+![AWS Architecture Diagram](./architecture-diagram.png)
 ## 🔐 Security Considerations
 
 - Used security groups to restrict access to AWS resources.
