@@ -134,28 +134,28 @@ The project uses the following AWS components:
 ## 📸 Project Screenshots
 
 ### 1. Application Deployment
-![Application Deployment](01-application-deployed.png)
+![Application Deployment](./Application%20Deployment)
 
 ### 2. VPC and Subnets
-![VPC and Subnets](02-vpc-subnets.png)
+![VPC and Subnets](./VPC%20and%20Subnets)
 
 ### 3. EC2 Instances
-![EC2 Instances](03-ec2-instances.png)
+![EC2 Instances](./EC2%20Instances)
 
 ### 4. Auto Scaling Group
-![Auto Scaling Group](04-auto-scaling-group.png)
+![Auto Scaling Group](./Auto%20Scaling%20Group)
 
 ### 5. Application Load Balancer
-![Application Load Balancer](05-load-balancer.png)
+![Application Load Balancer](./Application%20Load%20Balancer)
 
 ### 6. Target Group Health
-![Target Group Health](06-target-group-health.png)
+![Target Group Health](./Target%20Group%20Health)
 
 ### 7. CloudWatch Monitoring
-![CloudWatch Monitoring](07-cloudwatch-monitoring.png)
+![CloudWatch Monitoring](./CloudWatch%20Monitoring)
 
 ### 8. CloudWatch Alarm
-![CloudWatch Alarm](08-cloudwatch-alarm.png)
+![CloudWatch Alarm](./CloudWatch%20Alarm)
 
 ## 🔐 Security Considerations
 
